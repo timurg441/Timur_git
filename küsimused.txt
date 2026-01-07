@@ -1,0 +1,9 @@
+1. Mis käsk Git’is näitab hetke haru ja muudatusi?
+
+2. Kuidas Excelis liita kaks lahtrit?
+
+3. Nimeta vähemalt kaks Exceli diagrammi tüüpi.
+
+4. Kuidas PowerPointis lisada uus slaid?
+
+5. Mis käsk Git’is lisab faili commit’i jaoks jälgitavaks?
