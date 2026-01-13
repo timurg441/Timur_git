@@ -2,3 +2,4 @@
 2. Mis on branch?
 3. Git clone selgitus
 4. Mis on Git CMD?
+5. SSH võtme mõiste
