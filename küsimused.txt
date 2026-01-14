@@ -5,5 +5,5 @@ git status
 3. Nimeta vähemalt kaks Exceli diagrammi tüüpi.
 Tulpdiagramm ja joondiagramm
 4. Kuidas PowerPointis lisada uus slaid?
-
+Klõpsake vahekaarti Loo uus slaid
 5. Mis käsk Git’is lisab faili commit’i jaoks jälgitavaks?
