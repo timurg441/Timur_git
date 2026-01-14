@@ -11,3 +11,4 @@ Joondiagramm (Line chart)
 4. Kuidas PowerPointis lisada uus slaid?
 PowerPointis uus slaid: Ctrl + M või Home → New Slide.
 5. Mis käsk Git’is lisab faili commit’i jaoks jälgitavaks?
+git add <fail>
