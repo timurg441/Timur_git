@@ -1,7 +1,7 @@
 1. Mis käsk Git’is näitab hetke haru ja muudatusi?
 git status
 2. Kuidas Excelis liita kaks lahtrit?
-
+=A1+B1
 3. Nimeta vähemalt kaks Exceli diagrammi tüüpi.
 
 4. Kuidas PowerPointis lisada uus slaid?
