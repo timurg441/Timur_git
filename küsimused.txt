@@ -1,5 +1,5 @@
 1. Mis käsk Git’is näitab hetke haru ja muudatusi?
-
+git status
 2. Kuidas Excelis liita kaks lahtrit?
 
 3. Nimeta vähemalt kaks Exceli diagrammi tüüpi.
